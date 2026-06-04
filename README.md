@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satwik
-- 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science
+- 👀 I’m interested in automating things
+- 🌱 I’m currently learning QA Automation
+- 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me veerendrasathwik9@gmail.com
 
 <!---
